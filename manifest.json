@@ -1,1 +1,1 @@
-{ "files": [ { "path": "static/js/app.js" }, { "path": "static/css/core.css" }, { "path": "plugins/sample-plugin.js" } ] }
+{ "files": [ { "path": "static/js/app.js" }, { "path": "static/css/core.css" }, { "path": "static/js/config.js" }, { "path": "app/config.html" }  , { " path\: \static/js/config.js\ }, { \path\: \app/config.html\ } ] }
