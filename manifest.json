@@ -1,1 +1,10 @@
-{ "files": [ { "path": "static/js/app.js" }, { "path": "static/css/core.css" }, { "path": "static/js/config.js" }, { "path": "app/config.html" }  , { " path\: \static/js/config.js\ }, { \path\: \app/config.html\ } ] }
+{
+  "files": [
+    { "path": "static/js/app.js" },
+    { "path": "static/css/core.css" },
+    { "path": "static/js/config.js" },
+    { "path": "app/config.html" },
+    { "path": "plugins/sample-plugin.js" },
+    { "path": "plugins/no-cache.js" }
+  ]
+}
